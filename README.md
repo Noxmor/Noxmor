@@ -11,3 +11,4 @@ Hi there, I'm Noxmor. I'm doing mostly game programming. I'm also interested in 
 * Lua
 
 # My work
+* [TexScript](https://github.com/Noxmor/TexScript)
