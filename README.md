@@ -10,5 +10,7 @@ Hi there, I'm Noxmor. I'm doing mostly game programming. I'm also interested in 
 * Python
 * Lua
 
+***
+
 # My work
-* [TexScript](https://github.com/Noxmor/TexScript)
+* [TexScript](https://github.com/Noxmor/TexScript) (A C++ Text Adventure Game with Lua mod support)
